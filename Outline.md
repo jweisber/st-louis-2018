@@ -140,9 +140,15 @@ Each of our paradoxes features initial conclusions that are reasonable.
 
 ## Bootstrapping
 
+![](img/Bootstrapping Diagram.png)
+
 ## Harman-Vogel
 
+![](img/Harman-Vogel Diagram.png)
+
 ## Dogmatism
+
+![](img/Dogmatism Diagram.png)
 
 ## The Moral
 
