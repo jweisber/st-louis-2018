@@ -118,7 +118,7 @@ Suppose I draw a random card from a normal deck.
 Intuitively, "clipping" is what's going on in the Preface.
 
 - Ditto for the bootstrapping objection to reliabilism.
-- And bootstrapping, qua paradox, just looks like a milder case of the same dysfunction.
+    - And bootstrapping, qua paradox, just looks like a milder case of the same dysfunction.
 - So let's run with it?
 
 
@@ -127,7 +127,7 @@ Intuitively, "clipping" is what's going on in the Preface.
 
 ---
 
-Each of our paradoxes features initial conclusions that are reasonable.
+Each paradox features initial conclusions that are reasonable.
 
 - Those conclusions would ordinarily support further conclusions.
     - But not in these paradoxical cases.
@@ -164,6 +164,10 @@ A justified belief's "inferential reach" is source- and target-dependent.
 
 - Where did that belief get its justification?
 - Does that source support the conclusion of the present inference?
+
+---
+
+> Just as money, however gained, still spends the same, so too reasonable beliefs, however gained, still epistemically support the same beliefs. (Markie 2005)
 
 
 # Awkward Pauses
@@ -203,3 +207,5 @@ If you plow ahead anyway and judge that (3) and therefore (4), your judgment tha
 When exactly are we obliged to switch from overt acceptance to mere high credence.
 
 - *And when are we permitted to switch back*?
+
+## Thank You
